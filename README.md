@@ -22,5 +22,3 @@ PMD je identifikovao nekoliko potencijalnih problema u kodu, kao što su ponovna
 
 Korišćenje System.out/err nije preporučljivo u produkciji i trebalo bi ga zameniti odgovarajućim loggerima ili drugim mehanizmima.
 
-Preporučuje se refaktorisanje koda prema ovim smernicama kako bi se povećala čitljivost, održivost i kvaliteta koda.
-
